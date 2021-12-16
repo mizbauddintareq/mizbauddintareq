@@ -1,7 +1,7 @@
 ![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHo0V4EF16Svw/profile-displaybackgroundimage-shrink_350_1400/0/1638454831526?e=1645056000&v=beta&t=9dwiq-u8eHj4jpskEi5JGp4XhZXKIq-mQB2Fq2xWiFQ)
 
-### Hi there 👋, This is Mizba Uddin Tareq
-#### MERN Stack Developer
+# Hi there 👋, This is Mizba Uddin Tareq
+## MERN Stack Developer
 
 
 I'm quite confident about my expertise in HTML-5, CSS, Javascript, ES6, Bootstrap-5, Tailwind CSS, SASS, Rest API, React JS, React Bootstrap, React Router, React Hook Form, Firebase Authentication, Mongo-DB, Material UI, Node JS, Express JS, Hooks, Contexts API, Payment Gateway System and many more.
